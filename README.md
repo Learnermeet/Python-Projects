@@ -1,1 +1,1 @@
-## I will upload some python projects that I've built while learning Python!!
+## I will upload some python projects that I've built while learning Python.
